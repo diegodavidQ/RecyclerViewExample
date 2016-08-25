@@ -1,8 +1,9 @@
 # RecyclerViewExample
-This is an Android application example for the ![Diego David blog](https://diegodavidq.github.io).
+This is an Android application example for the [Diego David blog](https://diegodavidq.github.io).
 
 ## Screenshots
 
-https://github.com/diegodavidQ/diegodavidQ.github.io/blob/master/images/recyclerview1/sreenshot1.png
+![RecyclerView](https://github.com/diegodavidQ/diegodavidQ.github.io/blob/master/images/recyclerview1/sreenshot1.png "List RecyclerView") 
 
-https://github.com/diegodavidQ/diegodavidQ.github.io/blob/master/images/recyclerview1/sreenshot2.png
+![RecyclerView item click](https://github.com/diegodavidQ/diegodavidQ.github.io/blob/master/images/recyclerview1/sreenshot2.png "RecyclerView item click") 
+
