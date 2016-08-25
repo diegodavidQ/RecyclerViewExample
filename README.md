@@ -3,9 +3,11 @@ This is an Android application example for the [Diego David blog](https://diegod
 
 ## Screenshots
 
-<img src="https://github.com/diegodavidQ/diegodavidQ.github.io/blob/master/images/recyclerview1/sreenshot1.png" alt="RecyclerView" height="200"/>
+<img src="https://github.com/diegodavidQ/diegodavidQ.github.io/blob/master/images/recyclerview1/sreenshot1.png" alt="RecyclerView List" height="500"/>
 
-![RecyclerView](https://github.com/diegodavidQ/diegodavidQ.github.io/blob/master/images/recyclerview1/sreenshot1.png "List RecyclerView")
+<img src="https://github.com/diegodavidQ/diegodavidQ.github.io/blob/master/images/recyclerview1/sreenshot2.png" alt="RecyclerView item click" height="500"/>
+
+![RecyclerView](https://github.com/diegodavidQ/diegodavidQ.github.io/blob/master/images/recyclerview1/sreenshot1.png "List RecyclerView" height="200")
 
 ![RecyclerView item click](https://github.com/diegodavidQ/diegodavidQ.github.io/blob/master/images/recyclerview1/sreenshot2.png "RecyclerView item click")
 
